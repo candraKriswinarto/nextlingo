@@ -1,0 +1,16 @@
+{
+  "IndexPage": {
+    "title": "contoh next-intl",
+    "description": "Selamat datang di contoh Next.js Internationalization (i18n)! Demo ini memperlihatkan kekuatan App Router dan cara mengelola konten multibahasa dengan lancar menggunakan next-intl."
+  },
+  "NotFoundPage": {
+    "title": "Halaman Tidak Ditemukan",
+    "description": "Ups! Sepertinya Anda menemukan halaman yang tidak ada. Jangan khawatir, sihir internasionalisasi kami masih bekerja keras di bagian lain aplikasi. Silakan kembali untuk menjelajahi lebih lanjut!"
+  },
+  "Navigation": {
+    "home": "Beranda"
+  },
+  "Footer": {
+    "copyright": "© 2024 Aplikasi Anda. Hak cipta dilindungi."
+  }
+}
